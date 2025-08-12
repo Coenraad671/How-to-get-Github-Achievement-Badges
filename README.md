@@ -29,14 +29,10 @@ Want to collect all the cool achievement badges on your GitHub profile? Here’s
 ### **Steps to Get the Pull Shark Achievement:**
 
 1. **Create a new PUBLIC repository** with a `README.md` [here](https://github.com/new)
-   - *Image 1: Example of creating a new public repository*
 2. **Edit the `README.md`** file
-   - *Image 2: Edit README*
 3. **Save `README.md` and create a new branch**
-   - *Image 3: How to save README and create a new Pull Request*
 4. **Click "Create pull request"**
 5. **Click "Merge pull request"**
-   - *Image 4: Merge Pull Request*
 6. **Repeat steps 2-5 one more time** (You need to do it **twice** to get this achievement)
 
 🎉 **Congratulations – you just got the Pull Shark achievement!** 😎
